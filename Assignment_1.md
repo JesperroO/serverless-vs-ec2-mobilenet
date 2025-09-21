@@ -3,8 +3,8 @@
 ### Deadline: 23:59, Sep 22, Sunday
 ---
 
-### Name:
-### Student Id:
+### Name: RUKAI XIAO
+### Student Id: 124090729
 ---
 
 ## Question 1: Measure the EC2 CPU and Memory performance
