@@ -1,0 +1,1 @@
+ssh -i "labsuser.pem" ubuntu@ec2-3-90-183-87.compute-1.amazonaws.com
